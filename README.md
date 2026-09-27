@@ -164,5 +164,10 @@ py-generador-llaves-jwe/
 ├── encrypt_file.py         # Compresión y cifrado JWE con la clave pública.
 ├── decrypt_file.py         # Descifrado, descompresión y escritura binaria.
 ├── requirements.txt        # Dependencias con versiones fijadas.
+├── LICENSE                 # Licencia MIT.
 └── README.md               # Instalación, configuración, uso y limitaciones.
 ```
+
+## Licencia
+
+Este proyecto se distribuye bajo la [licencia MIT](LICENSE).
